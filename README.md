@@ -1,2 +1,2 @@
-# primeiros-passos-dotnet-dio
-Primeiros passos com .NET
+# Primeiros passos com .NET
+Bootcamp LocalizaLabs .NET Developer #2
