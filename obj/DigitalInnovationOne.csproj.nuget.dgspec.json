@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {}
+    "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\primeiros-passos-dotnet-dio\\DigitalInnovationOne.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {
+    "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\primeiros-passos-dotnet-dio\\DigitalInnovationOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectUniqueName": "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\primeiros-passos-dotnet-dio\\DigitalInnovationOne.csproj",
         "projectName": "DigitalInnovationOne",
-        "projectPath": "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectPath": "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\primeiros-passos-dotnet-dio\\DigitalInnovationOne.csproj",
         "packagesPath": "C:\\Users\\Sleigman\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\obj\\",
+        "outputPath": "C:\\Workspace\\Primeiros passos .NET\\DigitalInnovationOne\\primeiros-passos-dotnet-dio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
