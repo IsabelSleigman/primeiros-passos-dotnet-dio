@@ -1,12 +1,5 @@
 ﻿
-    Console.WriteLine("Informe a opção desejada: ");
-    Console.WriteLine("1 - Inserir novo aluno");
-    Console.WriteLine("2 - Listar alunos");
-    Console.WriteLine("3 - Calcular média geral");
-    Console.WriteLine("X - Sair");
-    Console.WriteLine();
-
-    string opUsuario = Console.ReadLine();
+    string opUsuario = ObterOpcaoUsuario();
 
     while (opUsuario.toUpper() != "X")
     {
@@ -28,6 +21,11 @@
                 throw new ArgumentOutOfRangeException();
         }
 
+       opUsuario = ObterOpcaoUsuario();
+    }
+
+    private static string ObterOpcaoUsuario()
+    {
         Console.WriteLine("Informe a opção desejada: ");
         Console.WriteLine("1 - Inserir novo aluno");
         Console.WriteLine("2 - Listar alunos");
@@ -35,5 +33,7 @@
         Console.WriteLine("X - Sair");
         Console.WriteLine();
 
-        opUsuario = Console.ReadLine();
+        string opUsuario = Console.ReadLine();
+
+        return opUsuario;
     }
